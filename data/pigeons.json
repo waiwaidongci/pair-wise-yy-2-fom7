@@ -26,7 +26,8 @@
           "event": "120公里训放",
           "distance": 120,
           "returnTime": "10:42",
-          "rank": 18
+          "rank": 18,
+          "owner": "北岸棚"
         }
       ]
     },
@@ -52,5 +53,6 @@
       "transfers": [],
       "races": []
     }
-  ]
+  ],
+  "claims": []
 }
